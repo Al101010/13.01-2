@@ -1,7 +1,7 @@
 name: Netology AHJ
 
 on:
-  push: ['main']
+  push:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
